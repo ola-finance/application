@@ -1,0 +1,60 @@
+[
+  {
+    "id": "",
+    "unitrollerAddress": "",
+    "maximillionAddress": "",
+    "chainId": "31337",
+    "distributionAssetParameters": {
+      "symbol": "WFUSE",
+      "name": "Wrapped Fuse",
+      "address": "",
+      "isNativeCoin": true
+    },
+    "assets": [
+      {
+        "symbol": "WBTC",
+        "name": "Wrapped BTC",
+        "address": "",
+        "decimals": 8,
+        "isNativeCoin": false
+      },
+      {
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "address": "",
+        "decimals": 18,
+        "isNativeCoin": false
+      },
+      {
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "address": "",
+        "decimals": 6,
+        "isNativeCoin": false
+      },
+      {
+        "symbol": "DAI",
+        "name": "DAI",
+        "address": "",
+        "decimals": 18,
+        "isNativeCoin": false
+      },
+      {
+        "symbol": "FUSE",
+        "name": "Fuse",
+        "address": "",
+        "decimals": 18,
+        "isNativeCoin": true
+      },
+      {
+        "symbol": "USDT",
+        "name": "Tether",
+        "address": "",
+        "decimals": 6,
+        "isNativeCoin": false
+      }
+    ],
+    "name": "Fuse local",
+    "lnHomePage": "https://www.fuse.io/"
+  }
+]
